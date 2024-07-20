@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that I can learn web development
 - 📫 Reach me by e-mail: rafaeldp207@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have a twin
+- ⚡ Fun fact: I have a twin brother
 
 <!---
 rafaeldpereira207/rafaeldpereira207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
